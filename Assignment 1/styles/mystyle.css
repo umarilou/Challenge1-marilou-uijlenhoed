@@ -1,0 +1,19 @@
+/*3C2961*/
+
+body{
+	background-image: url("hamster.jpg");
+	background-repeat: no-repeat;
+	padding-left: 750px;
+	background-color: #3C2961;
+
+}
+
+.calculations {
+	color: #89E1F9;
+	font-family: Open Sans Condensed, sans-serif; 
+}
+
+h1 {
+	color: #7CA6FC;
+	font-family: Krona One, sans-serif; 
+}
